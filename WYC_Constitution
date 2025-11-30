@@ -1,3 +1,6 @@
+% Washington Yacht Club Constitution (LaTeX Rewrite)
+% Revision: November 19, 2024
+
 \documentclass[10pt]{article}
 \usepackage[margin=1in]{geometry}
 \usepackage{setspace}
