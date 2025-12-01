@@ -122,32 +122,46 @@ Members with at least one Novice rating, who are capable of assisting other Memb
 1. Definition 
 Instructors are Members with Ratings who teach organized sailing classes, mostly to beginning sailors. 
 2. Requirements \
-a. At least one Instructor for each class must hold a Whaler Rating. If a Member wishes to become an Instructor, the Club will prioritize the training of potential Instructors in safe Whaler usage (provided that they hold a Boater Education Card). \
+a. At least one Instructor for each class must hold a Whaler Rating except for during windsurf classes. If a Member wishes to become an Instructor, the Club will prioritize the training of potential Instructors in safe Whaler usage (provided that they hold a Boater Education Card). \
 b. To become an Instructor, one should have a Skipper Rating for the class that they wish to teach. Alternatively, to teach a Dinghy Class (Single-Handed, Double-Handed, Sailboard, or Catamaran), they may have an Intermediate Rating for the class that they wish to teach and at least one other Dinghy Skipper rating, and be approved by the Vice Commodore. \
 c. If approved by the Vice Commodore, Members with only Intermediate Ratings but with prior experience serving as a Co Instructor may serve as an Instructor for Novice Dinghy classes for the Fleet in which they hold the Intermediate Rating\
-d. Instructors should have already passed the Dinghy Novice Written Test, and they should attempt to pass the Dinghy Skipper Written Test before teaching their next class. 
+d. Dinghy nstructors should have already passed the Dinghy Novice Written Test, and they should attempt to pass the Dinghy Skipper Written Test before teaching their next class. \
+e. For windsurf instruction, the instructor must be familiar with the teaching boundaries, windsurf teaching materials, and how to rescue folks with the stand-up paddleboard. 
 
-3. Duties and Privileges \
+4. Duties and Privileges \
 a. Instructors may check out Members for vessels in which the Members are not rated within the defined scope of the class that is being taught. \
 b. Instructors may only give Ratings Tests to students in their own classes. After a class has concluded, with the approval of the Vice Commodore, Instructors may continue to supervise the sailing of their former students for the remainder of the quarter, with the goal of allowing the student to earn the Rating designated by the class that they took. \
-c. During classes, Instructors should supervise the performance of instructional duties by Assistant Instructors, and they may allow the Assistant Instructor to practice driving a rescue Whaler on which they are aboard when this can be done safely (provided that the Member holds a Boater Education Card). 
-4. Dues Exemption 
+c. During classes, Instructors should supervise the performance of instructional duties by Assistant Instructors, and they may allow the Assistant Instructor to practice driving a rescue Whaler on which they are aboard when this can be done safely (provided that the Member holds a Boater Education Card). \
+d. Windsurf instructors (including intermediate co-instructors) may conduct supervised sailings and host socials at Sail Sand Point.
+6. Dues Exemption 
 Instructors are dues exempt for any quarters in which they commit to teaching one or more classes.
 
-5. Assistant Instructors \
+7. Assistant Instructors \
 a. To become an Assistant Instructor, one must have at least an Intermediate Rating corresponding to the class in which they wish to assist. \
 b. They will be under the supervision of an Instructor who is responsible for training of the Assistant Instructor. Assistant Instructors assist an Instructor in all duties related to the teaching of their class. However, they may not perform any of these duties unless the supervising Instructor is present. \
 c. Separately, Club Members with Dinghy certifications for similar vessels from formal sailing certification bodies or other significant demonstrated experience (e.g., competitive sailing experience) may serve as Assistant Instructors if they pass the Novice Dinghy Written Test, but they should try to test for our Club Ratings as soon as reasonable. \
 d. Assistant Instructors are encouraged to obtain a Boater Education Card prior to teaching so that they have the opportunity to practice operating the Whalers during their classes. 
-6. Co-Instructors \
+8. Co-Instructors \
 Two Members who meet the requirements for being Assistant Instructors may teach a class in pairs, at the discretion of the Vice Commodore. 
 ## Article VI - Chiefs 
 ### Section A. Chiefs 
 1. Purpose 
 The primary purpose of maintaining an active set of Chiefs of the Club is to identify and recognize Members who show good judgment in matters of safety and a willingness to continue to contribute their advice and efforts to supporting the Members and the activities of the Club. Their substantial knowledge, abilities, and experience with the Club benefits the continued success of the Club as a whole. 
 2. Requirements and Appointment Process 
-To become a Chief, a Member must have a Whaler Rating and one or more Skipper Ratings They must be nominated at a General Meeting or an Executive Council Meeting and then be approved by a majority vote. During the nomination process, the Fleets for which the Chief will hold Designated Chief status will be decided on. If approved, there will be a probationary period of six months, during which the Chief designation may be revoked by a majority vote of the Executive Council or the General Membership. 
-3. Duties 
+To become a Chief, a Member must have a Whaler Rating and one or more Skipper Ratings They must be nominated at a General Meeting or an Executive Council Meeting and then be approved by a majority vote. During the nomination process, the Fleets for which the Chief will hold Designated Chief status will be decided on. If approved, there will be a probationary period of six months, during which the Chief designation may be revoked by a majority vote of the Executive Council or the General Membership.
+
+A windsurf chief must hold at least a windsurf skipper rating and be familiar with:
+* Undertaking a risk assessment of environment and provide a safety-related chalk talk before supervising windsurfers on the water.
+* Club supervision/teaching boundaries and rescue policies.
+* Having different methods for preventing windsurfers from entering dangerous situations.
+* Explaining and demonstrating members windsurfing out of dangerous situations.
+* Rescuing windsurfers from dangerous situations.
+* Using a stand-up paddleboard.
+* Calling emergency services or for outside help.
+A windsurf chief does not need a whaler rating.
+
+
+4. Duties 
 The duties and the responsibilities of a Chief, to be exercised with discretion and courtesy, are outlined below: 
 
 a. Oversee Club Member Safety 
@@ -183,11 +197,16 @@ For simplicity, the word “Designated” does not have to be stated in order to
 
 2. Designated Chief Types
 
-Designated Chiefs exist for six fleets of club vessels: Single-Handed, Double-Handed, Sailboard, Catamaran, Keelboat, and Whaler. 
+Designated Chiefs exist for six fleets of club vessels: Single-Handed, Double-Handed, Windsurf Skipper Examiner, Windsurf Captain, Catamaran, Keelboat, and Whaler. 
 
 3. Requirements and Appointment Process
    
 To become a Designated Chief for a fleet of vessels, one must be a Chief, have a Skipper Rating for that fleet (or a general Whaler Rating to be considered for a Whaler Designation). If possible, for the Single-Handed, Double-Handed, Sailboard, and Catamaran fleets, an existing Designated Chief for the fleet in question should give their approval for the Member to proceed with being considered for appointment. However, to be considered specifically for a Whaler Designation or Keelboat Designation, one or more existing Whaler Chiefs or Keelboat Chiefs, respectively, must support the Member being considered for this appointment.
+
+A Windsurf Skipper Examiner Designated Chief can give Skipper ratings, while a Windsurf Captain Examiner Designated Chief can give Captains ratings. A Windsurf Skipper Examiner Designated Chief, who then receives their windsurf captain rating does not automatically become a Windsurf Captain Examiner. To receive the Windsurf Captain Examiner, the sailor must have a Captain rating, be given approval for appointment by one or more existing Windsurf Captain Examiner Chiefs, and be considered for appointment by the executive council.
+
+A Windsurf Skipper and Windsurf Captains Examiner Designated Chief must hold a Windsurf Badge - Level 1, the Captains Examiner must also hold a Gorge Windsurf Badge and Power Gybe Badge.
+
 
 4. Exception for Granting of Keelboat Novice Ratings
    
