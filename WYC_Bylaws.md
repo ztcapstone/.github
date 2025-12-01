@@ -1,5 +1,5 @@
 # WASHINGTON YACHT CLUB BY-LAWS 
-## Revision: November 19,  2024
+## Revision: November 8,  2025
 
 ## Article I - Articles and Regulations Taking Precedence 
 ### Section A. University of Washington Policies 
